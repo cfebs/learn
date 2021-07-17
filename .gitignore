@@ -1,0 +1,8 @@
+# ignore files without extension (usually exes)
+*
+!/**/
+!*.*
+
+# haskell
+haskell/**/*.hi
+haskell/**/*.o
